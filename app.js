@@ -7,7 +7,7 @@ var list = [
 		id: 0,
 		productName: 'Camisa',
 		price: 35.99,
-		description: 'Camisa feia que não uso mais'
+		description: 'Camisa feia que não uso  mais'
 	},
 	{
 		id: 1,
